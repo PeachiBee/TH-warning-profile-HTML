@@ -1,0 +1,138 @@
+<!------------------ 
+
+Hey guys, check out my fire code heh anyways uhhh don't fiddle aorund too much with the layout if you don't know what you're doing! Other than that customise how ever you want!! 
+
+Use https://th.circlejourney.net/ to see edits you make in real time!! :)
+Use https://www.w3schools.com/html/default.asp if you have troubles with anything!!
+
+
+---------------------->
+
+
+
+<!----- Main Box ------>
+<div class="container-fluid p-4 m-4">
+	<div style="background-color:#ffffff;
+        width:600px;
+        height:350px;
+        color:black;
+       background-size: cover;
+       border-radius: 10px 50px;
+       border: 5px solid #0056ff;
+       padding:25px;
+       margin: 0 auto;
+       ">
+		
+		<!----- Image ------>
+		<div style="background-image:url(https://miro.medium.com/1*_zqJUXJaDneHRrXeXtR5vQ.webp);
+            height: 290px;
+            width: 150px;
+            background-size: cover;
+            border-radius: 5px 25px;">
+		</div>
+		<div style="background-color: #aed8ff;
+            height: 290px;
+            width: 362px;
+            background-size: cover;
+            border-radius: 15px;
+            margin-top: -290px;
+            margin-left: 175px;
+            padding: 15px">
+			<div class="mb-2" style="background-color:#fff; color: #0056ff; border:3px solid #0056ff; height:50px; border-radius: 5px; padding: 8px; text-align: center;"> 🌐 <b>Read before Proceeding !!</b></div>
+			<!----- Buttons ------>
+			<ul class="nav nav-tabs card-header-tabs row mb-2 no-gutters ">
+				<li class="col-md-3 mb-1"><a class="btn bg-faded btn-block" style="background-color:#fff; color: #0056ff; border:2px solid #0056ff;" data-toggle="tab" href="#reg1"><i class="fa-solid fa-triangle-exclamation"></i></a></li>
+				<li class="col-md-3 mb-1"><a class="btn bg-faded btn-block" style="background-color:#fff; color: #0056ff; border:2px solid #0056ff;" data-toggle="tab" href="#reg2"><i class="fa-solid fa-clipboard-list-check"></i></a></li>
+				<li class="col-md-3 mb-1"><a class="btn bg-faded btn-block" style="background-color:#fff; color: #0056ff; border:2px solid #0056ff;" data-toggle="tab" href="#reg3"><b>BYI</b></a></li>
+				<li class="col-md-3 mb-1"><a class="btn bg-faded btn-block" style="background-color:#fff; color: #0056ff; border:2px solid #0056ff;" data-toggle="tab" href="#reg4"><b>DNI</b></a></li>
+			</ul>
+			
+<!------------------ Warning---------------------->
+			
+			<div class="tab-content">
+				<div class="tab-pane fade active show" id="reg1">
+					<div class="card p-3" style="background-color:#fff; color: #0056ff; border:3px solid #0056ff; height: 150px; text-align: center; overflow:auto">
+						<div class="p-2">
+							<p><b>WARNING!!</b></p>
+							<hr style="height:1px; background-color:#0056ff">
+							<p style="font-size:11px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio.  </p>
+							
+							<p style="font-size:12px"><b><u>Specific warnings for OCs/Art/Lore</b></u></p>
+							<ul style="font-size:10px">
+								<li>...</li>
+								<li>...</li>
+								<li>...</li>
+								<li>...</li>
+								<!---- Can extend this by adding more --->
+
+							</ul>
+
+						</div>
+					</div>
+				</div>
+				
+<!-------------------------------  BOUNDARIES  ------------------------------->
+
+				<div class="tab-pane fade" id="reg2">
+					<div class="card p-3" style="background-color:#fff; color: #0056ff; border:3px solid #0056ff; text-align: center; height: 150px; overflow:auto">
+						<div class="p-2">
+							<p><b>BOUNDARIES</b></p>
+							<hr style="height:1px; background-color:#0056ff">
+							<p style="font-size:11px">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+							<!---------------------  DO  ---------------------->
+							<ul style="font-size:10px; color:#1da331">
+								<li>... ✅</li>
+								<li>... ✅</li>
+								<li>... ✅</li>
+							</ul>
+							<!---------------------  DON'T  ---------------------->
+							<ul style="font-size:10px; color:#bd0f0f">
+								<li>... ❌</li>
+								<li>... ❌</li>
+								<li>... ❌</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+<!-------------------------------  BYI  ------------------------------->
+
+				<div class="tab-pane fade" id="reg3">
+					<div class="card p-3" style="background-color:#fff; color: #0056ff; border:3px solid #0056ff;  text-align: center; height: 150px; overflow:auto">
+						<div class="p-2">
+							<p><b>BYI</b></p>
+							<hr style="height:1px; background-color:#0056ff">
+
+							<ul style="font-size:10px">
+								<li>...</li>
+								<li>...</li>
+								<li>...</li>
+								<li>...</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				
+<!-------------------------------  DNI  ------------------------------->
+
+				<div class="tab-pane fade" id="reg4">
+					<div class="card p-3" style="background-color:#fff; color: #0056ff; border:3px solid #0056ff;  text-align: center; height: 150px; overflow:auto">
+						<div class="p-2">
+							<p><b>DNI</b></p>
+							<hr style="height:1px; background-color:#0056ff">
+							<ul style="font-size:10px">
+								<li>...</li>
+								<li>...</li>
+								<li>...</li>
+								<li>...</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+<!--- Do not remove this! --->
+		<div style="tooltipster hidden-sm-down; text-align: center; margin-top: 35px" title="Coded by PeachiBee!">
+			<a href="https://toyhou.se/39338148.frutiger-aero-warning-html" style="color: #0056ff"><i class="fa-solid fa-code"></i></a>
+		</div>
