@@ -41,10 +41,10 @@ Use https://www.w3schools.com/html/default.asp if you have troubles with anythin
 			<div class="mb-2" style="background-color:#fff; color: #0056ff; border:3px solid #0056ff; height:50px; border-radius: 5px; padding: 8px; text-align: center;"> 🌐 <b>Read before Proceeding !!</b></div>
 			<!----- Buttons ------>
 			<ul class="nav nav-tabs card-header-tabs row mb-2 no-gutters ">
-				<li class="col-md-3 mb-1"><a class="btn bg-faded btn-block" style="background-color:#fff; color: #0056ff; border:2px solid #0056ff;" data-toggle="tab" href="#reg1"><i class="fa-solid fa-triangle-exclamation"></i></a></li>
-				<li class="col-md-3 mb-1"><a class="btn bg-faded btn-block" style="background-color:#fff; color: #0056ff; border:2px solid #0056ff;" data-toggle="tab" href="#reg2"><i class="fa-solid fa-clipboard-list-check"></i></a></li>
-				<li class="col-md-3 mb-1"><a class="btn bg-faded btn-block" style="background-color:#fff; color: #0056ff; border:2px solid #0056ff;" data-toggle="tab" href="#reg3"><b>BYI</b></a></li>
-				<li class="col-md-3 mb-1"><a class="btn bg-faded btn-block" style="background-color:#fff; color: #0056ff; border:2px solid #0056ff;" data-toggle="tab" href="#reg4"><b>DNI</b></a></li>
+				<li class="col-md-3 col-3 mb-1"><a class="btn bg-faded btn-block" style="background-color:#fff; color: #0056ff; border:2px solid #0056ff;" data-toggle="tab" href="#reg1"><i class="fa-solid fa-triangle-exclamation"></i></a></li>
+				<li class="col-md-3 col-3 mb-1"><a class="btn bg-faded btn-block" style="background-color:#fff; color: #0056ff; border:2px solid #0056ff;" data-toggle="tab" href="#reg2"><i class="fa-solid fa-clipboard-list-check"></i></a></li>
+				<li class="col-md-3 col-3 mb-1"><a class="btn bg-faded btn-block" style="background-color:#fff; color: #0056ff; border:2px solid #0056ff;" data-toggle="tab" href="#reg3"><b>BYI</b></a></li>
+				<li class="col-md-3 col-3 mb-1"><a class="btn bg-faded btn-block" style="background-color:#fff; color: #0056ff; border:2px solid #0056ff;" data-toggle="tab" href="#reg4"><b>DNI</b></a></li>
 			</ul>
 			
 <!------------------ Warning---------------------->
